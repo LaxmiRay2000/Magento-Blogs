@@ -1,0 +1,141 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-12 21:58+0545\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: functions.php:30
+msgctxt "Lota font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:36
+msgctxt "Marck Script font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:66
+msgid "info@sensationaltheme.com"
+msgstr ""
+
+#: functions.php:67
+msgid "+1-541-754-3010"
+msgstr ""
+
+#: functions.php:68
+msgid "London, UK"
+msgstr ""
+
+#: functions.php:89
+msgid "Breaking News"
+msgstr ""
+
+#: functions.php:122
+msgid "Follow Me:"
+msgstr ""
+
+#: functions.php:126 functions.php:219
+msgid "Recent Posts"
+msgstr ""
+
+#: functions.php:136 functions.php:243 functions.php:258 functions.php:272
+msgid "See All"
+msgstr ""
+
+#: functions.php:140
+msgid "Trending Posts"
+msgstr ""
+
+#: functions.php:182 functions.php:262
+msgid "Popular Posts"
+msgstr ""
+
+#: functions.php:191
+msgid "Hello, I am Nijasi Thitak"
+msgstr ""
+
+#: functions.php:192
+msgid ""
+"I’ve been working with a company this month doing blogger outreach for a "
+"project. Part of my job is to vet blogs and determine their audience, their "
+"traffic, and whether they’re a good fit for this particular project. Having "
+"spent several hours reviewing blogs in several markets, I’ve come to a "
+"conclusion: We all need to work on our About pages."
+msgstr ""
+
+#: functions.php:193
+msgid "Know More"
+msgstr ""
+
+#: functions.php:202
+msgid "My Latest Stories"
+msgstr ""
+
+#: functions.php:233
+msgid "Must Read Posts"
+msgstr ""
+
+#: functions.php:247
+msgid "Featured Posts"
+msgstr ""
+
+#: functions.php:276
+msgid "Reasons to Choose My Services"
+msgstr ""
+
+#: functions.php:277
+msgid "Services"
+msgstr ""
+
+#: functions.php:292
+msgid "Our clients reviews."
+msgstr ""
+
+#: functions.php:293
+msgid "View All Projects"
+msgstr ""
+
+#: functions.php:294
+msgid "Testimonials"
+msgstr ""
+
+#: functions.php:304
+msgid "Need More Help?"
+msgstr ""
+
+#: functions.php:305
+msgid "A better way to hire our best help"
+msgstr ""
+
+#: functions.php:306
+msgid "Purchase Now"
+msgstr ""
+
+#: functions.php:308
+msgid "Contact Us"
+msgstr ""
+
+#: functions.php:336
+msgid "Read More"
+msgstr ""
+
+#: functions.php:345
+msgid "Copyright &copy; All rights reserved."
+msgstr ""
+
+#: functions.php:346
+msgid "Presazine by Sensational Theme"
+msgstr ""
