@@ -1,0 +1,1 @@
+jQuery(document).ready(function(){jQuery("#bloguide-ui-tabs").tabs()});
